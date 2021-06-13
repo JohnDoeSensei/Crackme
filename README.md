@@ -5,6 +5,9 @@
 * <link> https://www.youtube.com/watch?v=uQKq7aO3Pfc </link>
 * <link> https://www.youtube.com/watch?v=hEX-TIM4VXI </link>
 
+<p>Crackme.exe is authentic exe. </p>
+<p>patch.exe is cracked version of CrackMe1.exe</p>
+
 ## Installation 
 
 * Download cracker software (x32/64dbg) from : <link> https://x64dbg.com/#start </link>
