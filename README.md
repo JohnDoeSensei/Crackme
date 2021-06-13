@@ -17,6 +17,9 @@
 
 ## How to 
 
+* Click Symbol tab
+* Double click on your exe file.
+
 For string research : 
 * Right click->Recherche pour->Module courant->Références à des chaines de caractères
 * Click Strings (crackeme.exe) tab
